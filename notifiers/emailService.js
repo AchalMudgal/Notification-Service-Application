@@ -6,7 +6,7 @@ module.exports = nodemailer.createTransport({
     host : "smtp.gmail.com",  //At the place of "host" also "service" can be used => service : "gmail"
     auth : {
         user: 'achal408mg@gmail.com',
-        pass : 'rhlkcbgvzbmiaqhv'
+        pass : '***********'
     },
     secure : true
 });
